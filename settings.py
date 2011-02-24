@@ -78,7 +78,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'sandbox.urls'
+ROOT_URLCONF = 'wesleychilds.urls'
 
 TEMPLATE_DIRS = (
     (os.path.join(DIRNAME, "templates"))
